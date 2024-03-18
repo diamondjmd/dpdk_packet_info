@@ -53,7 +53,7 @@ EAL: Probe PCI driver: net_e1000_em (8086:10d3) device: 0000:02:00.0 (socket -1)
 TELEMETRY: No legacy callbacks, legacy socket not created
 Port 0 MAC: 52 54 00 ca 26 9c
 
-Core 1 forwarding packets. [Ctrl+C to quit]
+Core 1 waiting packets. [Ctrl+C to quit]
 Packet 55:
   L2: Destination MAC: 01:00:5e:7f:ff:fa
        Source MAC: 52:54:00:92:a4:7c
