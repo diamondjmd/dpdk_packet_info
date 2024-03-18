@@ -85,6 +85,8 @@ Packet 60:
 ```
 
 ## Демонстрационное видео
-https://disk.yandex.ru/i/yx58bjR6qbj9Fg
+<video width="320" height="240" controls>
+  <source src="https://disk.yandex.ru/i/yx58bjR6qbj9Fg" type="video/mp4">
+</video>
 
 Нажмите кнопку воспроизведения, чтобы просмотреть видео.
